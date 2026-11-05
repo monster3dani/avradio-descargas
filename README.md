@@ -7,7 +7,7 @@ Creado por **DanLab**.
 
 ## Descarga · Download
 
-👉 **[Descargar AVRadio (versión estable)](../../releases/tag/avradio)**
+👉 **[Descargar AVRadio (versión estable)](../../releases/latest)**
 
 Instala el archivo `AVRadio.apk` en la pantalla. Después, la app se actualiza sola.
 *Install `AVRadio.apk` on your head unit. The app updates itself afterwards.*
